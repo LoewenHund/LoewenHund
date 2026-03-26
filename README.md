@@ -1,4 +1,8 @@
-## Hi there 👋
+I build web applications with a focus on structure, clarity, and functionality.
+
+At the same time, I am developing deep expertise in Cybersecurity — understanding systems, identifying weaknesses, and improving resilience. My approach combines development, system knowledge, and security thinking.
+
+I focus on execution, continuous improvement, and building real, practical solutions.
 
 <!--
 **LoewenHund/LoewenHund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
